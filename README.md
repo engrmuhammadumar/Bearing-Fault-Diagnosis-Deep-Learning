@@ -1,1 +1,1 @@
-# Bearing-Fault-Diagnosis-Deep-Learnin
+# Bearing-Fault-Diagnosis-Deep-Learning
